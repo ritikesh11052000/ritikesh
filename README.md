@@ -38,7 +38,7 @@ Final-year student pursuing a Bachelor of Technology in Artificial Intelligence 
 - High School Diploma  
   Marathi medium high school Ichalkaranji (D.K.T.E Narayan mala), Ichalkaranji, Maharashtra
 
-
+## 📚 SKILLS 
 | **💻 Programming Languages and Concepts**|**🛠️ Tools & Frameworks**               |
 |-----------------------------------------|----------------------------------------|
 | **Languages**                           | **Tools & Frameworks**                 |
