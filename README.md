@@ -39,7 +39,7 @@ Final-year student pursuing a Bachelor of Technology in Artificial Intelligence 
   Marathi medium high school Ichalkaranji (D.K.T.E Narayan mala), Ichalkaranji, Maharashtra
 
 
-| **💻 Programming Languages and Concepts**   | **🛠️ Tools & Frameworks**               |
+| **💻 Programming Languages and Concepts**|**🛠️ Tools & Frameworks**               |
 |-----------------------------------------|----------------------------------------|
 | **Languages**                           | **Tools & Frameworks**                 |
 | Python ![Python](https://img.icons8.com/color/48/000000/python.png) | Front-End Development ![Front-End Development](https://img.icons8.com/color/48/000000/source-code.png) |
@@ -97,5 +97,5 @@ Final-year student pursuing a Bachelor of Technology in Artificial Intelligence 
   - IBM Cognitive Class certification in JavaScript
   - Hackerrank Problem Solving basic certification
   - Master class of Data Science - RacksonsIT Developers
+  
 
-**Consider grouping certifications by category (e.g., AI & Machine Learning, Cloud Computing) for better readability.**
